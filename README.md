@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🚀 Progetti in evidenza
+## 🚀 Featured Projects
 
-- [🌐 Domain Adaptation](https://github.com/aislabunimi/domain.adaptation.3D) – This project tackles the domain shift problem in semantic segmentation, where a model trained on synthetic data performs poorly on real-world images.
+- [🌐 Domain Adaptation](https://github.com/aislabunimi/domain.adaptation.3D)
+  – This project tackles the domain shift problem in semantic segmentation, where a model trained on synthetic data performs poorly on real-world images.
