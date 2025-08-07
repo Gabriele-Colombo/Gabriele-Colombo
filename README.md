@@ -1,15 +1,16 @@
 <p align="center">
-  <img src="assets/githubGif.gif" alt="animation" width="1000" height="400">
+  <img src="assets/githubGif.gif" alt="animation" width="500" height="300">
 </p>
 
-## Hi there 👋
+<h1 align="center"><b>Hi there</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 I'm Gabriele, a developer from italy.
-
+  
 I have always been interested in science and engineering, which led me to pursue a degree in Computer Science at the University of Milan.
-
+  
 My current goal is to gain a deep understanding of science, computer systems, physics, and math from the ground up.
 I’m focusing my studies on mastering the C programming language and artificial intelligence, with my thesis primarily centered on AI.
+
 
 ## 🚀 Featured Projects
 
