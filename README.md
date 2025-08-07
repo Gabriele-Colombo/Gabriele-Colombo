@@ -1,5 +1,6 @@
-<script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.6.2/dist/dotlottie-wc.js" type="module"></script>
-<dotlottie-wc src="https://lottie.host/1a0abe10-2ae5-42f8-a8cc-c2d77729e519/LziXSl7Fv8.lottie" style="width: 300px;height: 300px" speed="1" autoplay loop></dotlottie-wc>
+<p align="center">
+  <img src="assets/githubGif.gif" alt="animation" width="1000" height="400">
+</p>
 
 ## Hi there 👋
 
